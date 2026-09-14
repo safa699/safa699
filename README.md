@@ -1,24 +1,3 @@
-<div class="intro">
-    <h1>Hi, I'm Safa Waseem 👋</h1>
-    <h2>I'm a Student at KICSIT</h2>
-</div>
-
-.intro h1,
-.intro h2 {
-    transition: 0.3s ease;
-}
-
-.intro h1:hover {
-    color: #00aaff;
-    transform: scale(1.05);
-    text-shadow: 0 0 15px #00aaff;
-}
-
-.intro h2:hover {
-    color: #00aaff;
-    transform: scale(1.03);
-    text-shadow: 0 0 10px #00aaff;
-}
 
 <h1 align="center">Hi, I'm Safa Waseem 👋</h1>
 
