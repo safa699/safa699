@@ -3,13 +3,13 @@
 <h3 align="center">BSCS Undergraduate | Software Development | Web Development | AI</h3>
 
 <p align="center">
-  <a href="https://github.com/safa699">
+  <a href="https://github.com/safa699" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/safa-waseem-b67417421/">
+  <a href="https://www.linkedin.com/in/safa-waseem-b67417421/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
