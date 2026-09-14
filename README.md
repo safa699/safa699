@@ -133,8 +133,6 @@ Projects developed during my frontend development internship:
 ---
 
 
----
-
 ### ⭐ Thanks for visiting my profile!
 
 **Let's build something useful together. 🚀**
