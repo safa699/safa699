@@ -1,25 +1,52 @@
-# Hi, I'm Safa Waseem 👋
+<h1 align="center">Hi, I'm Safa Waseem 👋</h1>
 
-### BSCS Undergraduate | Software Development | Web Development | AI
+<h3 align="center">BSCS Undergraduate | Software Development | Web Development</h3>
 
-I'm a Computer Science student passionate about building practical software
-projects and learning modern technologies.
-
-I enjoy working with **C++, Python, Web Development, Databases, and AI/ML**.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 BSCS Undergraduate
-- 💻 Interested in Software & Web Development
-- 🗄️ Interested in Database Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Currently improving my development skills
-- 📂 I use GitHub to build, manage and showcase my projects
+<p align="center">
+  <a href="https://github.com/safa699">
+    <img src="https://img.shields.io/badge/GitHub-safa699-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
+## 🧭 About Me
+
+name: Safa Waseem
+role: BSCS Undergraduate
+institute: KICSIT, Kahuta
+focus:
+  - Software Development
+  - Web Development
+  - Database Development
+  - Artificial Intelligence
+  - Machine Learning
+status: Learning, Building & Growing 🚀
+
+### Iska result roughly aisa lagega:
+
+**Hi, I'm Safa Waseem 👋**  
+*BSCS Undergraduate | Software Development | Web Development*
+
+`GITHUB` `LINKEDIN`
+
+---
+
+## 🧭 About Me
+
+```text
+name:       Safa Waseem
+role:       BSCS Undergraduate
+institute:  KICSIT, Kahuta
+focus:      Software Development
+            Web Development
+            Database Development
+            Artificial Intelligence
+            Machine Learning
+status:     Learning, Building & Growing 🚀
 ## 🛠️ Tech Stack
 
 ### Programming Languages
