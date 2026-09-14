@@ -1,165 +1,228 @@
 <h1 align="center">Hi, I'm Safa Waseem 👋</h1>
 
-<h3 align="center">BSCS Undergraduate | Software Development | Web Development</h3>
+<h3 align="center">BSCS Undergraduate | Software Development | Web Development | AI</h3>
 
 <p align="center">
   <a href="https://github.com/safa699">
-    <img src="https://img.shields.io/badge/GitHub-safa699-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-safa699-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/safa-waseem-b67417421/">
+    <img src="https://img.shields.io/badge/LinkedIn-Safa%20Waseem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
----
-
-## 🧭 About Me
+🧭 About Me
 
 name: Safa Waseem
 role: BSCS Undergraduate
 institute: KICSIT, Kahuta
+
 focus:
   - Software Development
   - Web Development
   - Database Development
   - Artificial Intelligence
   - Machine Learning
+
+currently_learning:
+  - Python
+  - Flask
+  - MongoDB
+  - Machine Learning
+  - Web Development
+
 status: Learning, Building & Growing 🚀
 
-### Iska result roughly aisa lagega:
+🛠️ Tech Stack
 
-**Hi, I'm Safa Waseem 👋**  
-*BSCS Undergraduate | Software Development | Web Development*
+💻 Programming Languages
 
-`GITHUB` `LINKEDIN`
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
----
+🌐 Web Development
 
-## 🧭 About Me
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</p>
 
-```text
-name:       Safa Waseem
-role:       BSCS Undergraduate
-institute:  KICSIT, Kahuta
-focus:      Software Development
-            Web Development
-            Database Development
-            Artificial Intelligence
-            Machine Learning
-status:     Learning, Building & Growing 🚀
-## 🛠️ Tech Stack
+🗄️ Database
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+🔧 Tools
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🚀 Featured Projects
 
----
+🍽️ Restaurant Management System
 
-## 🚀 Featured Projects
+C++ | Object-Oriented Programming
 
-### 🍽️ Restaurant Management System
-**C++ | OOP**
+A restaurant management system developed using C++ and OOP concepts.
 
-A restaurant management system developed using Object-Oriented
-Programming concepts.
+Features:
 
-**Features:**
-- Customer management
-- Menu management
-- Order processing
-- Billing
-- Employee management
-- Table allocation
-- Sales reports
-- File handling
+Customer Management
 
-🔗 [View Project](https://github.com/safa699/oop-project)
+Menu Management
 
----
+Order Processing
 
-### 🍕 Online Food Ordering System
-**Flask | MongoDB | HTML | CSS**
+Billing System
 
-A web-based food ordering system developed as a Database Management
-System project.
+Employee Management
 
-**Features:**
-- Customer and Manager roles
-- Food menu
-- Order management
-- Database CRUD operations
-- MongoDB integration
+Table Allocation
 
-🔗 [View Project](https://github.com/safa699/Advanced-Database-project)
+Sales Reports
 
----
+File Handling
 
-### 🤖 AI / Machine Learning Project
-**Python | Machine Learning**
+🔗 View Project →
 
-A Python-based AI/ML project focused on applying machine learning
-concepts to a practical problem.
+🍕 Online Food Ordering System
 
-🔗 [View Project](https://github.com/safa699/AI-project)
+Flask | MongoDB | HTML | CSS
 
----
+A web-based food ordering system developed as a Database Management System project.
 
-### 🌐 Frontend Development Projects
+Features:
 
-Projects developed during my frontend development internship:
+Customer and Manager Roles
 
-- 🧮 Calculator
-- 🖼️ Image Gallery
-- 💻 Personal Portfolio Website
+Food Menu
 
-🔗 [Calculator](https://github.com/safa699/CodeAlpha-Calculator)
+Order Management
 
-🔗 [Image Gallery](https://github.com/safa699/CodeAlpha-ImageGallery)
+CRUD Operations
 
-🔗 [Portfolio Website](https://github.com/safa699/CodeAlpha-PortfolioWebsite)
+MongoDB Database
 
----
+Web-Based Interface
 
-## 📜 Certifications & Experience
+🔗 View Project →
 
-- **CodeAlpha — Frontend Development Internship**
-- **HP LIFE — AI for Business Professionals**
-- **Anthropic — AI Fluency: Framework & Foundations**
-- **Claude 101**
-- **Claude Code 101**
-- **Claude Code in Action**
+🤖 AI / Machine Learning Project
 
----
+Python | Machine Learning
 
-## 📊 GitHub Stats
+A Python-based project developed to explore Artificial Intelligence and Machine Learning concepts.
 
-![Safa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safa699&show_icons=true&hide_border=true)
+Technologies:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safa699&layout=compact&hide_border=true)
+Python
 
----
+Machine Learning
 
-## 🌐 Connect With Me
+Data Processing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Safa%20Waseem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safa-waseem-b67417421/)
+Model Training
 
-[![GitHub](https://img.shields.io/badge/GitHub-safa699-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safa699)
+🔗 View Project →
 
----
+🌐 Frontend Development Projects
 
-### ⭐ Thanks for visiting my profile!
+Frontend projects developed during my frontend development internship.
 
-**Let's build something useful together. 🚀**
+🧮 Calculator
+
+HTML | CSS | JavaScript
+
+🔗 View Project →
+
+🖼️ Image Gallery
+
+HTML | CSS | JavaScript
+
+🔗 View Project →
+
+💻 Portfolio Website
+
+HTML | CSS
+
+🔗 View Project →
+
+📜 Certifications & Experience
+
+💼 Internship
+
+CodeAlpha — Frontend Development Internship
+
+Worked on frontend development projects including:
+
+Calculator
+
+Image Gallery
+
+Portfolio Website
+
+🎓 Courses & Certifications
+
+HP LIFE — AI for Business Professionals
+
+Anthropic — AI Fluency: Framework & Foundations
+
+Claude 101
+
+Claude Code 101
+
+Claude Code in Action
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safa699&show_icons=true&hide_border=true&count_private=true" alt="Safa's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safa699&layout=compact&hide_border=true" alt="Top Languages">
+</p>
+
+🌱 Currently Working On
+
+Improving my Web Development skills
+
+Building database-based applications
+
+Exploring Artificial Intelligence & Machine Learning
+
+Creating practical software projects
+
+Learning new technologies
+
+🎯 Goals
+
+To become a skilled software developer by continuously learning,
+building real-world projects, and improving my problem-solving skills.
+
+🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/safa699">
+<img src="https://img.shields.io/badge/GitHub-safa699-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/safa-waseem-b67417421/">
+<img src="https://img.shields.io/badge/LinkedIn-Safa%20Waseem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
+<p align="center">
+  <b>Learning • Building • Growing 🚀</b>
+</p>
