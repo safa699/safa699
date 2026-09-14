@@ -14,7 +14,42 @@
   </a>
 </p>
 
+<h1 align="center">Hi, I'm Safa Waseem 👋</h1>
 
+<h3 align="center">BSCS Undergraduate | Software Development | Web Development | AI</h3>
+
+<p align="center">
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safa699)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safa-waseem-b67417421/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</p>
+
+---
+
+## 🧭 About Me
+
+```yaml
+name: Safa Waseem
+role: BSCS Undergraduate
+institute: KICSIT, Kahuta
+
+focus:
+  - Software Development
+  - Web Development
+  - Database Development
+  - Artificial Intelligence
+  - Machine Learning
+
+currently_learning:
+  - Python
+  - Flask
+  - MongoDB
+  - Machine Learning
+  - Web Development
+
+status: Learning, Building & Growing 🚀
 
 
 ## 👩‍💻 About Me
