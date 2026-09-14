@@ -1,13 +1,18 @@
-# Hi, I'm Safa Waseem 👋
+<h1 align="center">Hi, I'm Safa Waseem </h1>
 
-### BSCS Undergraduate | Software Development | Web Development | AI
+<h3 align="center">BSCS Undergraduate | Software Development | Web Development | AI</h3>
 
-I'm a Computer Science student passionate about building practical software
-projects and learning modern technologies.
+<p align="center">
+  <a href="https://github.com/safa699">
+    <img src="https://img.shields.io/badge/GitHub-safa699-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/safa-waseem-b67417421/">
+    <img src="https://img.shields.io/badge/LinkedIn-Safa%20Waseem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-I enjoy working with **C++, Python, Web Development, Databases, and AI/ML**.
 
----
+
 
 ## 👩‍💻 About Me
 
