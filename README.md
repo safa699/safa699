@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge" alt="ModelSim">
 </p>
----
+
 
 ## 🚀 Featured Projects
 
